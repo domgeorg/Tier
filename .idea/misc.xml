@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_battery.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_battery_purple_square.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_circle.xml" value="0.143" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_circle_purple.xml" value="0.22" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_circle_teal.xml" value="0.2045" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_corner_radius_white.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_distance.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_distance_purple_square.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_electric.xml" value="0.2045" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_location.xml" value="0.2" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_location_purple_circle.xml" value="0.1965" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_man.xml" value="0.143" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_marker.xml" value="0.2045" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_my_location.xml" value="0.1" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_purple_gradient_rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_rounded_corner_white.xml" value="0.1965" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_safety.xml" value="0.15" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_safety_purple_square.xml" value="0.15" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_scooter.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_scooter_details_dialog.xml" value="0.1965" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_scooter_purple_square.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_scooter_title.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_splash.xml" value="0.217" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_square_purple.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_state.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/drawable/ic_state_purple_square.xml" value="0.1955" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/layout/activity_maps.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/layout/bottom_sheet_scooter.xml" value="0.264" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/layout/fragment_map.xml" value="0.2" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/layout/fragment_scooter.xml" value="0.264" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/layout/fragment_vehicle.xml" value="0.2" />
+        <entry key="..\:/Users/georgiopoulos/AndroidStudioProjects/Tier/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

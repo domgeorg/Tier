@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/startFragment">
+
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.example.tier.ui.fragment.map.MapFragment"
+        android:label="MapFragment"
+        tools:layout="@layout/fragment_map">
+        <action
+            android:id="@+id/action_to_vehicleFragment"
+            app:destination="@id/vehicle" />
+    </fragment>
+
+    <dialog
+        android:id="@+id/vehicle"
+        android:name="com.example.tier.ui.fragment.vehicle.VehicleFragment"
+        android:label="VehicleFragment">
+        <argument
+            android:name="vehicle"
+            app:argType="com.example.tier.model.cluster.Vehicle"
+            app:nullable="false" />
+        <argument
+            android:name="distance"
+            app:argType="string"
+            app:nullable="false" />
+    </dialog>
+</navigation>

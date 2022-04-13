@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tier</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="google_map_key">AIzaSyBmUZvcTRyA0fqlxD_6Oxd6PLomsWy1wzs</string>
+    <string name="dialog_permission_title">Permission required</string>
+    <string name="dialog_permission_default_message">Tier app needs this permission</string>
+    <string name="location_permission_message">Tier app uses location updates</string>
+    <string name="dialog_permission_button_positive">OK</string>
+    <string name="error_load_scooters">Oops! Cannot load scooters right now</string>
+    <string name="error_google_play_services">Google play services are mandatory to run Tier app!</string>
+    <string name="error_permission">Location updates are mandatory to run Tier app!</string>
+    <string name="try_again">Try again</string>
+    <string name="vehicle_details_type">Type: %s</string>
+    <string name="vehicle_details_distance">Distance: %s</string>
+    <string name="vehicle_details_battery">Battery Level: %s%%</string>
+    <string name="vehicle_details_max_speed">Max Speed: %skm/h</string>
+    <string name="vehicle_details_helmet">Helmet Box: %s</string>
+</resources>

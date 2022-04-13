@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/ic_location"
+        android:gravity="center" />
+
+    <item
+        android:bottom="@dimen/dimen_8_dp"
+        android:drawable="@drawable/ic_circle_teal"
+        android:gravity="center" />
+
+    <item
+        android:bottom="@dimen/dimen_8_dp"
+        android:drawable="@drawable/ic_electric"
+        android:gravity="center" />
+
+</layer-list>

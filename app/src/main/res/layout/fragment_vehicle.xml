@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ic_rounded_corner_white"
+    android:padding="@dimen/dimen_20_dp">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_scooter_purple_square"
+        android:drawablePadding="@dimen/dimen_8_dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_18_sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Type: escooter" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/distance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_14_dp"
+        android:drawableStart="@drawable/ic_distance_purple_square"
+        android:drawablePadding="@dimen/dimen_8_dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_18_sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/type"
+        tools:text="Distance: 400m" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/battery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_14_dp"
+        android:drawableStart="@drawable/ic_battery_purple_square"
+        android:drawablePadding="@dimen/dimen_8_dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_18_sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/distance"
+        tools:text="Battery Level: 35%" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/max_speed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_14_dp"
+        android:drawableStart="@drawable/ic_state_purple_square"
+        android:drawablePadding="@dimen/dimen_8_dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_18_sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/battery"
+        tools:text="Max Speed: 20" />
+
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/helmet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_14_dp"
+        android:drawableStart="@drawable/ic_safety_purple_square"
+        android:drawablePadding="@dimen/dimen_8_dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_18_sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/max_speed"
+        tools:text="Helmet Box: Yes" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
