@@ -10,23 +10,15 @@ Tier app asks the user's location permission in order to indicate his/hers curre
 
 ## Technologies and patterns
 
-Dependency injection with Hilt
-
-Jetpack Navigation Component
-
-View Binding
-
-Coroutines
-
-Retrofit + OkHttp + Moshi
-
-MVVM + LiveData
-
-Firebase-crashlytics
-
-Mockito for the unit tests
-
-Ktlint
+* Dependency injection with Hilt
+* Jetpack Navigation Component
+* View Binding
+* Coroutines
+* Retrofit + OkHttp + Moshi
+* MVVM + LiveData
+* Firebase-crashlytics
+* Mockito for the unit tests
+* Ktlint
 
 ## Credits
 
